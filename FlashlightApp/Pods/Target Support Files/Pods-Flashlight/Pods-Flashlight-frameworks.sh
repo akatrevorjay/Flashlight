@@ -6,11 +6,6 @@ mkdir -p "${CONFIGURATION_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}"
 
 SWIFT_STDLIB_PATH="${DT_TOOLCHAIN_DIR}/usr/lib/swift/${PLATFORM_NAME}"
 
-  local destinations=(
-    "${CONFIGURATION_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}" \
-    "${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}" \
-    )
-
 install_framework()
 {
   local destinations=(
