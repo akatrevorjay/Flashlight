@@ -467,11 +467,10 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0610;
-				ORGANIZATIONNAME = "Nate Parrott";
 				TargetAttributes = {
 					5FC13DED1A4E12DB008A0FE3 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = 3GD8ABJ22W;
+						DevelopmentTeam = UZWC7ZHRA5;
 					};
 					5FC13DF81A4E12DB008A0FE3 = {
 						CreatedOnToolsVersion = 6.1;
