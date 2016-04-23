@@ -251,7 +251,7 @@
 		5FF873141A6D71EA00EAD72F /* NSObject+InternationalizedValueForKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+InternationalizedValueForKey.h"; path = "../FlashlightKit/FlashlightKit/NSObject+InternationalizedValueForKey.h"; sourceTree = "<group>"; };
 		5FF873151A6D71EA00EAD72F /* NSObject+InternationalizedValueForKey.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+InternationalizedValueForKey.m"; path = "../FlashlightKit/FlashlightKit/NSObject+InternationalizedValueForKey.m"; sourceTree = "<group>"; };
 		5FF8731C1A6D977500EAD72F /* GenericPluginIcon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = GenericPluginIcon.icns; sourceTree = "<group>"; };
-		653963C51A2766CD00D8F6E9 /* libPods-Flashlight.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libPods-Flashlight.a"; path = "../../../../../Library/Developer/Xcode/DerivedData/Pods-gpoaxpycjinulnbzpvilkgtvohcj/Build/Products/Debug/libPods-Flashlight.a"; sourceTree = "<group>"; };
+		653963C51A2766CD00D8F6E9 /* libPods-Flashlight.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; name = "libPods-Flashlight.a"; path = "../../../../../Library/Developer/Xcode/DerivedData/Pods-gpoaxpycjinulnbzpvilkgtvohcj/Build/Products/Debug/libPods-Flashlight.a"; sourceTree = "<group>"; };
 		658988FB1A270ACF00ABE5E9 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
 		6C564480159E7C0800215467 /* Flashlight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Flashlight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6C564484159E7C0800215467 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
@@ -571,7 +571,7 @@
 				LastUpgradeCheck = 0630;
 				TargetAttributes = {
 					6C56447F159E7C0800215467 = {
-						DevelopmentTeam = 3GD8ABJ22W;
+						DevelopmentTeam = UZWC7ZHRA5;
 					};
 				};
 			};

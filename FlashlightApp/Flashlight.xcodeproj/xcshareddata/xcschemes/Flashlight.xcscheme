@@ -11,14 +11,55 @@
             buildForRunning = "YES"
             buildForProfiling = "YES"
             buildForArchiving = "YES"
-            buildForAnalyzing = "YES"
-            hideIssues = "NO">
+            buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C56447F159E7C0800215467"
                BuildableName = "Flashlight.app"
                BlueprintName = "Flashlight"
                ReferencedContainer = "container:Flashlight.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5FC13D3C1A4CD847008A0FE3"
+               BuildableName = "FlashlightTool.app"
+               BlueprintName = "FlashlightTool"
+               ReferencedContainer = "container:FlashlightTool/FlashlightTool.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5F5B17401A05757400809207"
+               BuildableName = "SpotlightSIMBL.bundle"
+               BlueprintName = "SpotlightSIMBL"
+               ReferencedContainer = "container:SpotlightSIMBL/SpotlightSIMBL.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "5FC13DED1A4E12DB008A0FE3"
+               BuildableName = "FlashlightKit.framework"
+               BlueprintName = "FlashlightKit"
+               ReferencedContainer = "container:FlashlightKit/FlashlightKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
