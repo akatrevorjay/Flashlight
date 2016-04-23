@@ -1,6 +1,7 @@
-FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Sparkle" "${PODS_ROOT}/Sparkle"
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Sparkle"
 GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
 HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/GRMustache" "${PODS_ROOT}/Headers/Public/JRSwizzle" "${PODS_ROOT}/Headers/Public/LetsMove" "${PODS_ROOT}/Headers/Public/Sparkle"
+LIBRARY_SEARCH_PATHS = $(inherited) "$CONFIGURATION_BUILD_DIR/GRMustache" "$CONFIGURATION_BUILD_DIR/JRSwizzle" "$CONFIGURATION_BUILD_DIR/LetsMove"
 OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/GRMustache" -isystem "${PODS_ROOT}/Headers/Public/JRSwizzle" -isystem "${PODS_ROOT}/Headers/Public/LetsMove" -isystem "${PODS_ROOT}/Headers/Public/Sparkle"
 OTHER_LDFLAGS = $(inherited) -ObjC -l"GRMustache" -l"JRSwizzle" -l"LetsMove" -framework "Foundation" -framework "Sparkle"
 PODS_ROOT = ${SRCROOT}/Pods
