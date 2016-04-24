@@ -883,6 +883,10 @@
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(USER_LIBRARY_DIR)/Developer/Xcode/DerivedData/Pods-gpoaxpycjinulnbzpvilkgtvohcj/Build/Products/Debug",
+					"$(SRCROOT)/build/Release/LetsMove",
+					"$(SRCROOT)/build/Release/GRMustache",
+					"$(SRCROOT)/build/Release/JRSwizzle",
+					"$(SRCROOT)/build/Release",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				PRODUCT_NAME = "$(TARGET_NAME)";
