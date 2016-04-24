@@ -258,8 +258,7 @@
 		5FC13E701A4E4AA8008A0FE3 /* _FlashlightPluginEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _FlashlightPluginEngine.m; sourceTree = "<group>"; };
 		5FF5D4031A675B5300641D7A /* FlashlightKit.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = FlashlightKit.xcodeproj; path = ../FlashlightKit/FlashlightKit.xcodeproj; sourceTree = "<group>"; };
 		FA45509F1C99FA0C007E4F81 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
-		/*FAE3F30E1C99EB890058C7C7 [> Opee.framework <] = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Opee.framework; path = ../../../../../../../../../../../../../../Library/Frameworks/Opee.framework/Library/Frameworks/Opee.framework; sourceTree = "<group>"; };*/
-		FAE3F30E1C99EB890058C7C7 /* Opee.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Opee.framework; path = Library/Frameworks/Opee.framework/Library/Frameworks/Opee.framework; sourceTree = SDKROOT; };
+		FAE3F30E1C99EB890058C7C7 /* Opee.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; name = Opee.framework; path = /Library/Frameworks/Opee.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
